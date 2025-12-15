@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+azure-storage-blob==12.19.0
+azure-ai-vision==0.15.1b1
+python-dotenv==1.0.1
+aiohttp==3.9.5
+requests==2.32.3
+opentelemetry-sdk==1.19.0
+azure-monitor-opentelemetry-exporter==1.0.0b15
+opentelemetry-instrumentation-fastapi==0.40b0
+opentelemetry-instrumentation-requests==0.40b0
